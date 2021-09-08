@@ -11,6 +11,7 @@ Link to Hu, Wang and Wu's paper: https://arxiv.org/abs/1412.6211
 - Size difference in data between a single author and the other 14 may lead to higher inaccuracy
 - Difference in output between authors demands extra attention to be paid to preventing features being skewed to any particular author
 - Current approach does not take anything regarding sentence structure as a feature
+- *GitHub specific:* Samples folder contains too many files to upload
 
 ## Coming Soon
 - Implementation of the paper's pseudo aggregate SVM-RFE approach to refine models
